@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">adapter适配器</string>
+    <string name="activity1">adapter适配器</string>
+    <string name="activity2">listAdpater</string>
+</resources>
